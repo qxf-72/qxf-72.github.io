@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "C++ Primer"
-date:   2024-1-27
-tags: [tag1, tag2]
+date:   2024-4-3
+tags: [C++]
 comments: true
-author: xxx
+author: Xiaofeng Qiu
 ---
 
 
