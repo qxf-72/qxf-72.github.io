@@ -1,4 +1,11 @@
-<div align="center"> <img src="https://cdn.nlark.com/yuque/0/2023/jpeg/29674612/1682560371240-b93425bf-be82-44ba-afbc-a047a4812bda.jpeg" width="500" /> </div>
+---
+layout: post
+title: "C++ Primer"
+date:   2024-1-27
+tags: [tag1, tag2]
+comments: true
+author: xxx
+---
 
 
 
